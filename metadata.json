@@ -1,0 +1,6 @@
+{
+  "name": "Auditoría Estratégica - Viña Casa Toscana",
+  "description": "Dashboard interactivo de auditoría SEO/GEO/AEO, Meta Ads, embudo de ventas y fuga de clientes para Viña Casa Toscana (San Javier, Maule, Chile).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
